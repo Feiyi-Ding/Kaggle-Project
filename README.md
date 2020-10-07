@@ -7,6 +7,6 @@ People interested in renting an apartment or home, share information about thems
 
 Construct a model using the dataset supplied and use it to predict the price of a set of Airbnb rentals
 
-*Data:
+* Data:
 https://www.kaggle.com/c/pricelala2/data?select=scoringData.csv
 
